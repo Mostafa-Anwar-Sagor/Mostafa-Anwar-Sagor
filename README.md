@@ -16,16 +16,13 @@
 
 ### 👋 About Me
 
-I'm **Mostafa Anwar**, a Full-Stack AI Developer based in **Malaysia**. I'm currently pursuing my **B.Sc. in Computer Science (Data Science)** at Albukhary International University.
+I'm **Mostafa Anwar**, a passionate **Full-Stack AI Developer** based in Malaysia. I'm currently pursuing my **B.Sc. in Computer Science (Data Science)** at Albukhary International University.
 
-I specialize in building **production-ready AI systems** from the ground up — covering everything from data pipelines and model training to full-stack web deployment. My work includes:
+I love turning complex problems into clean, scalable, and production-ready solutions. My core expertise lies in **deep learning, computer vision, natural language processing**, and **full-stack web development**. I enjoy working across the entire development lifecycle — from training AI models to building and deploying complete web applications.
 
-- 🛡️ **IoT Security** — ML-based threat detection and automated incident response
-- 🎥 **Computer Vision** — Deepfake video detection using CNN and ResNet50
-- 📈 **Reinforcement Learning** — Algorithmic trading with PPO, DQN, and A3C agents
-- 🎬 **Streaming & Search** — Netflix-style platform with adaptive streaming and AI recommendations
-- 💼 **Enterprise SaaS** — Multi-tenant CRM with AI lead scoring and sales forecasting
-- 📄 **Active Researcher** — Working on AI trust, NLP-based violation detection, and medical AI agents
+I'm always eager to learn new technologies and take on challenging projects. Whether it's building intelligent systems or designing user-friendly applications, I focus on writing clean code and delivering real impact.
+
+💼 **Open to freelance, contract, and internship opportunities.**
 
 ---
 
@@ -56,21 +53,25 @@ I specialize in building **production-ready AI systems** from the ground up — 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Anwar-Sagor&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostafa-Anwar-Sagor&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostafa-Anwar-Sagor&theme=github_dark&utcOffset=8" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mostafa-Anwar-Sagor&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mostafa-Anwar-Sagor&theme=github_dark" width="49%"/>
+
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Anwar-Sagor&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideLabels=58A6FF)](https://git.io/streak-stats)
 
-</div>
+<br/>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mostafa-Anwar-Sagor/Mostafa-Anwar-Sagor/output/github-snake-dark.svg" alt="Snake animation" />
+![Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Anwar-Sagor&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
