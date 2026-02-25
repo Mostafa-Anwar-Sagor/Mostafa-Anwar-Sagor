@@ -2,6 +2,10 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&height=35&lines=AI+%2F+ML+System+Developer;Full-Stack+Web+Engineer;Computer+Vision+Specialist;Deep+Learning+Researcher)](https://git.io/typing-svg)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-anwar-3ab665350/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mostafa-anwar-sagor.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.anwar2181@gmail.com)
@@ -10,11 +14,18 @@
 
 ---
 
-### 👋 Hey there!
+### 👋 About Me
 
-I'm a **Full-Stack AI Developer** based in Malaysia. I design and build **AI-powered web applications** — from training deep learning models to deploying production-ready systems.
+I'm **Mostafa Anwar**, a Full-Stack AI Developer based in **Malaysia**. I'm currently pursuing my **B.Sc. in Computer Science (Data Science)** at Albukhary International University.
 
-I've built **6+ projects** across IoT security, deepfake detection, algorithmic trading, video streaming, and enterprise CRM — all from scratch.
+I specialize in building **production-ready AI systems** from the ground up — covering everything from data pipelines and model training to full-stack web deployment. My work includes:
+
+- 🛡️ **IoT Security** — ML-based threat detection and automated incident response
+- 🎥 **Computer Vision** — Deepfake video detection using CNN and ResNet50
+- 📈 **Reinforcement Learning** — Algorithmic trading with PPO, DQN, and A3C agents
+- 🎬 **Streaming & Search** — Netflix-style platform with adaptive streaming and AI recommendations
+- 💼 **Enterprise SaaS** — Multi-tenant CRM with AI lead scoring and sales forecasting
+- 📄 **Active Researcher** — Working on AI trust, NLP-based violation detection, and medical AI agents
 
 ---
 
@@ -49,11 +60,6 @@ I've built **6+ projects** across IoT security, deepfake detection, algorithmic 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Anwar-Sagor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Anwar-Sagor&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="160em"/>
-
-<br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Anwar-Sagor&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideLabels=58A6FF)](https://git.io/streak-stats)
 
 </div>
@@ -64,11 +70,7 @@ I've built **6+ projects** across IoT security, deepfake detection, algorithmic 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mostafa-Anwar-Sagor/Mostafa-Anwar-Sagor/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mostafa-Anwar-Sagor/Mostafa-Anwar-Sagor/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Mostafa-Anwar-Sagor/Mostafa-Anwar-Sagor/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Mostafa-Anwar-Sagor/Mostafa-Anwar-Sagor/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
