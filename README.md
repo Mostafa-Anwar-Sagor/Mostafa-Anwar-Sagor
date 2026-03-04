@@ -71,7 +71,7 @@ I'm always eager to learn new technologies and take on challenging projects. Whe
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Anwar-Sagor&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=Mostafa-Anwar-Sagor&label=PROFILE%20VIEWS&labelColor=0D1117&countColor=%2358A6FF&style=for-the-badge&labelStyle=upper)
 
 </div>
 
